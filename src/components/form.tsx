@@ -21,6 +21,7 @@ const StyledForm = styled.form`
 
     display: flex;
     flex-direction: column;
+    max-width: 30rem;
 
     .form-group {
         margin-bottom: 1rem;
