@@ -1,0 +1,12 @@
+body {
+    --bg: #041520;
+    --light-blue: #318bfe;
+    --text-gray: #828a8f;
+    --input-bg: #0c1c27;
+    --input-border: #202f39;
+
+    font-family: sans-serif;
+    padding: 1em;
+    background-color: var(--bg);
+    color: var(--text-gray);
+}
